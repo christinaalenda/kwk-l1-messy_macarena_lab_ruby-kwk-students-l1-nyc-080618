@@ -22,7 +22,7 @@ ahead and use a typical git workflow to make it happen:
 A curriculum owner will review your change and approve or comment on it in due
 course.
 
-# Why Contribute?
+# Why Contribute?https://learn.co/tracks/kwk-student-lessons-l1/intro-to-ruby/intro-to-ruby/kwk-l1-messy-macarena-lab#
 
 Curriculum on Learn is publicly and freely available under Learn's
 [Educational Content License](https://learn.co/content-license). By
